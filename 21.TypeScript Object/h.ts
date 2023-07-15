@@ -1,6 +1,6 @@
 const sym1 = Symbol();
 let user1 = {
-    name : "shayan",
+    name : "zia",
     email : "shayankhanx1x@gmail.com",
     city : "Islamabad",
     [sym1] :["hello"]
